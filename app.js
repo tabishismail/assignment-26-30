@@ -9,7 +9,7 @@
 // document.write("<div>","Floor off value: "+Math.floor(user)+"</div>");
 // document.write("<div>","Ceil off value: "+Math.ceil(user)+"</div>");
 
-// // Assignment # 2
+// Assignment # 2
 
 // var user= +prompt("Enter any integer");
 
@@ -17,3 +17,10 @@
 // document.write("<div>","Round off value: "+Math.round(user)+"</div>");
 // document.write("<div>","Floor off value: "+Math.floor(user)+"</div>");
 // document.write("<div>","Ceil off value: "+Math.ceil(user)+"</div>");
+
+
+
+// Assignment # 3
+
+// var user= +prompt("Enter any integer");
+// document.write("<div>","The absolute value of: "+Math.abs(user)+"</div>");
