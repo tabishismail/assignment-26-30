@@ -32,3 +32,14 @@
 //     randomNum = 1;
 // }
 // document.write("<div>","Random dice value: " +randomNum+"</div>");
+
+// Assignment # 5
+
+// var randomNum = Math.round(Math.random());
+
+// if(randomNum===0){
+//     document.write("<div>","Random coin Value: HEADS"+"</div>");
+// }
+// else{
+//     document.write("<div>","Random coin Value: TAILS"+"</div>");
+// }
