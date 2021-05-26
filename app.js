@@ -43,3 +43,11 @@
 // else{
 //     document.write("<div>","Random coin Value: TAILS"+"</div>");
 // }
+
+// Assignment # 6
+
+// var randomNum = Math.round(Math.random() * 100);
+// if(randomNum===0){
+//     randomNum = 1;
+// }
+// document.write("<div>","Random number value between 1 to 100: " +randomNum+"</div>");
