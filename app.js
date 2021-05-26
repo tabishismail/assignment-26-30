@@ -51,3 +51,11 @@
 //     randomNum = 1;
 // }
 // document.write("<div>","Random number value between 1 to 100: " +randomNum+"</div>");
+
+
+// Assignment # 7
+
+// var abc= prompt("Enter Your Weight");
+// var xyz= parseFloat(abc);
+// document.write("<div>","The weight of user is: " +xyz+" kilograms"+"</div>");
+
