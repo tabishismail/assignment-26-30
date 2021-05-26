@@ -24,3 +24,11 @@
 
 // var user= +prompt("Enter any integer");
 // document.write("<div>","The absolute value of: "+Math.abs(user)+"</div>");
+
+// Assignment # 4
+
+// var randomNum = Math.round(Math.random() * 6);
+// if(randomNum===0){
+//     randomNum = 1;
+// }
+// document.write("<div>","Random dice value: " +randomNum+"</div>");
